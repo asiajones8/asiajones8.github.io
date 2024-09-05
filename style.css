@@ -1,8 +1,8 @@
 body {
-    background: rgb(125, 198, 205);
+    background: rgb(10, 31, 190);
     color: rgb(45, 45, 45);
     padding: 10px;
-    font-family: arial;
+    font-family: arial ;
 }
 #all-contents {
   max-width: 800px;
@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
+    background: rgb(80, 185, 242);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -19,7 +19,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: white (255, 255, 255, 0.068);
     flex: 1;
     margin: 0;
 }
@@ -32,7 +32,7 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color: #2ba29c;
 }
 
 /* main container area beneath menu */
